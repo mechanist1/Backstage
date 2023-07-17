@@ -8,6 +8,6 @@ public class SujetApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SujetApplication.class, args);
-	}
+		System.out.println("server launched on port 3000");}
 
 }
